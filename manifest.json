@@ -1,11 +1,11 @@
 {
-    "name": "Flutter math memorizer",
+    "name": "memorize_math_numbers",
     "short_name": "memorize_math_numbers",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "An app to memorize as many digits of pi, e or i",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
